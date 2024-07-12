@@ -7,8 +7,6 @@ sites:
     url: https://humanistika.org
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
@@ -16,6 +14,8 @@ sites:
     port: 80
     check: "tcp-ping"
     ipv6: true
+assignees: # Users to assign downtime issues (optional)
+  - ttasovac
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
