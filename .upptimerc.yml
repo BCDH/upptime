@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: humanistika
     url: https://humanistika.org
+    icon: https://raw.githubusercontent.com/BCDH/upptime/master/assets/bcdh-dot.png
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Test Broken Site
