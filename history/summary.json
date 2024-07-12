@@ -1,6 +1,6 @@
 [
   {
-    "name": "humanistika",
+    "name": "Хуманистика",
     "url": "https://humanistika.org",
     "icon": "https://raw.githubusercontent.com/BCDH/upptime/master/assets/bcdh-dot.png",
     "slug": "humanistika",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 271,
-    "timeWeek": 271,
-    "timeMonth": 271,
-    "timeYear": 271,
+    "time": 262,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 262,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "תּכלית",
+    "url": "http://tacheles.humanistika.org",
+    "icon": "https://icons.duckduckgo.com/ip3/tacheles.humanistika.org.ico",
+    "slug": "",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 508,
+    "timeDay": 508,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   }
 ]
