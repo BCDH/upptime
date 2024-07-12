@@ -13,6 +13,9 @@ sites:
   - name: Расковник
     slug: raskovnik
     url: https://raskovnik.org
+  - name: Препис
+    slug: prepis
+    url: http://prepis.org 
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
