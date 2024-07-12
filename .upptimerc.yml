@@ -4,12 +4,14 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Хуманистика
+    slug: humanistika
     url: https://humanistika.org
     icon: https://raw.githubusercontent.com/BCDH/upptime/master/assets/bcdh-dot.png
   - name: תּכלית
     slug: tacheles
     url: http://tacheles.humanistika.org
   - name: Расковник
+    slug: raskovnik
     url: https://raskovnik.org
   #- name: IPv6 test
   #  url: forwardemail.net
