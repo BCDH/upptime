@@ -18,7 +18,7 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "תּכלית",
+    "name": "תּכלית (Tacheles)",
     "url": "http://tacheles.humanistika.org",
     "icon": "https://icons.duckduckgo.com/ip3/tacheles.humanistika.org.ico",
     "slug": "tacheles",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 448,
-    "timeWeek": 448,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 522,
-    "timeWeek": 522,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "time": 508,
+    "timeDay": 508,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   }
 ]
