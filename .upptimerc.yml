@@ -9,6 +9,8 @@ sites:
   - name: תּכלית
     slug: tacheles
     url: http://tacheles.humanistika.org
+  - name: Расковник
+    url: https://raskovnik.org
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
