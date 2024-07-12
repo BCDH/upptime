@@ -7,6 +7,7 @@ sites:
     url: https://humanistika.org
     icon: https://raw.githubusercontent.com/BCDH/upptime/master/assets/bcdh-dot.png
   - name: תּכלית
+    slug: tacheles
     url: http://tacheles.humanistika.org
   #- name: IPv6 test
   #  url: forwardemail.net
