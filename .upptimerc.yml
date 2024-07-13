@@ -32,7 +32,7 @@ status-website:
   # cname: /upptime
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/BCDH/upptime/master/assets/cdhn-logo.webp
-  # name: Upptime
+  name: ""
   introTitle: "Uptime monitor"
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/BCDH/upptime).
   navbar:
