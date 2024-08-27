@@ -40,35 +40,39 @@
     "url": "https://raskovnik.org",
     "icon": "https://icons.duckduckgo.com/ip3/raskovnik.org.ico",
     "slug": "raskovnik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 357,
-    "timeWeek": 517,
-    "timeMonth": 490,
-    "timeYear": 492,
-    "dailyMinutesDown": {}
+    "time": 489,
+    "timeDay": 343,
+    "timeWeek": 493,
+    "timeMonth": 485,
+    "timeYear": 489,
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   },
   {
     "name": "Препис",
     "url": "http://prepis.org",
     "icon": "https://icons.duckduckgo.com/ip3/prepis.org.ico",
     "slug": "prepis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 689,
-    "timeWeek": 636,
-    "timeMonth": 624,
-    "timeYear": 707,
-    "dailyMinutesDown": {}
+    "time": 705,
+    "timeDay": 645,
+    "timeWeek": 631,
+    "timeMonth": 623,
+    "timeYear": 705,
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   }
 ]
