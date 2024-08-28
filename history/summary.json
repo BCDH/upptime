@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 285,
-    "timeWeek": 263,
-    "timeMonth": 239,
+    "timeDay": 286,
+    "timeWeek": 271,
+    "timeMonth": 251,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 637,
-    "timeWeek": 486,
-    "timeMonth": 490,
-    "timeYear": 484,
+    "time": 486,
+    "timeDay": 594,
+    "timeWeek": 514,
+    "timeMonth": 493,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/raskovnik.org.ico",
     "slug": "raskovnik",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 343,
-    "timeWeek": 493,
-    "timeMonth": 485,
-    "timeYear": 489,
+    "uptime": "99.55%",
+    "uptimeDay": "79.10%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.55%",
+    "time": 487,
+    "timeDay": 342,
+    "timeWeek": 476,
+    "timeMonth": 482,
+    "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-08-27": 0
+      "2024-08-28": 18,
+      "2024-08-27": 283
     }
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prepis.org.ico",
     "slug": "prepis",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 645,
-    "timeWeek": 631,
-    "timeMonth": 623,
-    "timeYear": 705,
+    "uptime": "99.55%",
+    "uptimeDay": "79.10%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.55%",
+    "time": 702,
+    "timeDay": 588,
+    "timeWeek": 627,
+    "timeMonth": 624,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-08-27": 0
+      "2024-08-28": 18,
+      "2024-08-27": 283
     }
   }
 ]
