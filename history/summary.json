@@ -40,19 +40,19 @@
     "url": "https://raskovnik.org",
     "icon": "https://icons.duckduckgo.com/ip3/raskovnik.org.ico",
     "slug": "raskovnik",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 518,
-    "timeDay": 486,
-    "timeWeek": 468,
-    "timeMonth": 507,
+    "timeDay": 534,
+    "timeWeek": 486,
+    "timeMonth": 511,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-09-14": 0
+      "2025-09-14": 6
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "http://prepis.org",
     "icon": "https://icons.duckduckgo.com/ip3/prepis.org.ico",
     "slug": "prepis",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 662,
-    "timeDay": 614,
-    "timeWeek": 652,
-    "timeMonth": 869,
+    "timeDay": 636,
+    "timeWeek": 655,
+    "timeMonth": 863,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-09-14": 0
+      "2025-09-14": 6
     }
   }
 ]
