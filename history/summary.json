@@ -4,19 +4,19 @@
     "url": "https://humanistika.org",
     "icon": "https://raw.githubusercontent.com/BCDH/upptime/master/assets/bcdh-dot.png",
     "slug": "humanistika",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 6397,
-    "timeWeek": 1916,
-    "timeMonth": 774,
-    "timeYear": 358,
+    "timeDay": 4303,
+    "timeWeek": 1716,
+    "timeMonth": 753,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2025-10-10": 0
+      "2025-10-10": 7
     }
   },
   {
