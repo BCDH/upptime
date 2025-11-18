@@ -40,18 +40,20 @@
     "url": "https://raskovnik.org",
     "icon": "https://icons.duckduckgo.com/ip3/raskovnik.org.ico",
     "slug": "raskovnik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 522,
-    "timeDay": 559,
-    "timeWeek": 545,
-    "timeMonth": 538,
-    "timeYear": 536,
-    "dailyMinutesDown": {}
+    "timeDay": 348,
+    "timeWeek": 494,
+    "timeMonth": 525,
+    "timeYear": 535,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Препис",
