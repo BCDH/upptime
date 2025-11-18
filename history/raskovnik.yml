@@ -1,7 +1,7 @@
 url: https://raskovnik.org
-status: up
-code: 200
-responseTime: 558
-lastUpdated: 2025-11-18T11:49:19.931Z
+status: down
+code: 500
+responseTime: 207
+lastUpdated: 2025-11-18T11:54:45.904Z
 startTime: 2024-07-12T06:09:57.620Z
 generator: Upptime <https://github.com/upptime/upptime>
