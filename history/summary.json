@@ -6,17 +6,17 @@
     "slug": "humanistika",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "91.68%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "92.08%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 338,
-    "timeDay": 263,
-    "timeWeek": 284,
-    "timeMonth": 300,
+    "timeDay": 248,
+    "timeWeek": 295,
+    "timeMonth": 301,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-11-18": 120
+      "2025-11-18": 114
     }
   },
   {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
-    "timeDay": 628,
-    "timeWeek": 536,
-    "timeMonth": 512,
+    "timeDay": 432,
+    "timeWeek": 545,
+    "timeMonth": 510,
     "timeYear": 496,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 521,
-    "timeDay": 431,
-    "timeWeek": 483,
-    "timeMonth": 517,
-    "timeYear": 534,
+    "timeDay": 413,
+    "timeWeek": 482,
+    "timeMonth": 516,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2025-11-18": 151
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.98%",
-    "time": 689,
-    "timeDay": 423,
-    "timeWeek": 493,
+    "time": 690,
+    "timeDay": 427,
+    "timeWeek": 508,
     "timeMonth": 557,
-    "timeYear": 697,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2025-11-18": 131
     }
