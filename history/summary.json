@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 354,
-    "timeDay": 1384,
-    "timeWeek": 658,
-    "timeMonth": 447,
+    "time": 353,
+    "timeDay": 228,
+    "timeWeek": 647,
+    "timeMonth": 445,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2025-11-18": 114
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 541,
-    "timeWeek": 524,
-    "timeMonth": 522,
-    "timeYear": 499,
+    "timeDay": 673,
+    "timeWeek": 548,
+    "timeMonth": 528,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   },
   {
@@ -43,14 +43,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/raskovnik.org.ico",
     "slug": "raskovnik",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "68.91%",
     "uptimeYear": "97.38%",
     "time": 528,
-    "timeDay": 559,
-    "timeWeek": 493,
+    "timeDay": 529,
+    "timeWeek": 523,
     "timeMonth": 529,
     "timeYear": 538,
     "dailyMinutesDown": {
@@ -80,8 +80,8 @@
     "uptimeYear": "99.98%",
     "time": 681,
     "timeDay": 754,
-    "timeWeek": 581,
-    "timeMonth": 633,
+    "timeWeek": 624,
+    "timeMonth": 647,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2025-11-18": 131
