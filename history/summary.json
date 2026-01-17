@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 356,
-    "timeDay": 277,
+    "timeDay": 324,
     "timeWeek": 370,
-    "timeMonth": 459,
+    "timeMonth": 457,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 114
@@ -30,9 +30,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 307,
-    "timeWeek": 517,
+    "time": 495,
+    "timeDay": 423,
+    "timeWeek": 520,
     "timeMonth": 530,
     "timeYear": 501,
     "dailyMinutesDown": {}
@@ -49,9 +49,9 @@
     "uptimeMonth": "68.91%",
     "uptimeYear": "97.38%",
     "time": 529,
-    "timeDay": 446,
-    "timeWeek": 587,
-    "timeMonth": 538,
+    "timeDay": 452,
+    "timeWeek": 571,
+    "timeMonth": 535,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2025-12-29": 790,
@@ -79,12 +79,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 680,
-    "timeDay": 574,
-    "timeWeek": 656,
-    "timeMonth": 630,
-    "timeYear": 700,
+    "timeDay": 606,
+    "timeWeek": 654,
+    "timeMonth": 631,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2025-11-18": 131
     }
+  },
+  {
+    "name": "Lex-0",
+    "url": "https://lex0.org",
+    "icon": "https://icons.duckduckgo.com/ip3/lex0.org.ico",
+    "slug": "lex0",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
+    "dailyMinutesDown": {}
   }
 ]
