@@ -16,6 +16,9 @@ sites:
   - name: Препис
     slug: prepis
     url: http://prepis.org 
+  - name: Lex-0
+    slug: lex0
+    url: https://lex0.org
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
