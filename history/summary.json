@@ -46,7 +46,7 @@
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.11%",
+    "uptimeMonth": "84.13%",
     "uptimeYear": "97.38%",
     "time": 532,
     "timeDay": 666,
@@ -92,19 +92,19 @@
     "url": "https://lex0.org",
     "icon": "https://icons.duckduckgo.com/ip3/lex0.org.ico",
     "slug": "lex0",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 232,
-    "timeWeek": 227,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 227,
+    "timeDay": 272,
+    "timeWeek": 239,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-01-24": 0
+      "2026-01-24": 10
     }
   }
 ]
