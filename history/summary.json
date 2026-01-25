@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 356,
-    "timeDay": 354,
-    "timeWeek": 323,
-    "timeMonth": 448,
+    "timeDay": 358,
+    "timeWeek": 340,
+    "timeMonth": 447,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-11-18": 114
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 608,
-    "timeWeek": 545,
-    "timeMonth": 541,
+    "timeDay": 541,
+    "timeWeek": 564,
+    "timeMonth": 539,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },
@@ -46,13 +46,13 @@
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.13%",
+    "uptimeMonth": "85.11%",
     "uptimeYear": "97.38%",
     "time": 532,
-    "timeDay": 666,
-    "timeWeek": 609,
-    "timeMonth": 563,
-    "timeYear": 540,
+    "timeDay": 437,
+    "timeWeek": 550,
+    "timeMonth": 556,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-12-29": 790,
       "2025-12-28": 1440,
@@ -79,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 681,
-    "timeDay": 817,
-    "timeWeek": 682,
-    "timeMonth": 651,
+    "timeDay": 726,
+    "timeWeek": 677,
+    "timeMonth": 648,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2025-11-18": 131
@@ -93,18 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lex0.org.ico",
     "slug": "lex0",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 227,
-    "timeDay": 272,
-    "timeWeek": 239,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2026-01-24": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 220,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 220,
+    "timeYear": 220,
+    "dailyMinutesDown": {}
   }
 ]
