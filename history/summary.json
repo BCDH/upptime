@@ -72,9 +72,9 @@
     "url": "http://prepis.org",
     "icon": "https://icons.duckduckgo.com/ip3/prepis.org.ico",
     "slug": "prepis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -84,6 +84,7 @@
     "timeMonth": 620,
     "timeYear": 699,
     "dailyMinutesDown": {
+      "2026-02-02": 0,
       "2025-11-18": 131
     }
   },
