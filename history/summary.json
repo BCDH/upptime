@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 356,
-    "timeDay": 295,
-    "timeWeek": 277,
-    "timeMonth": 425,
-    "timeYear": 373,
+    "timeDay": 136,
+    "timeWeek": 246,
+    "timeMonth": 421,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2025-11-18": 114
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 486,
-    "timeWeek": 463,
-    "timeMonth": 526,
+    "timeDay": 470,
+    "timeWeek": 469,
+    "timeMonth": 521,
     "timeYear": 501,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.38%",
     "time": 531,
-    "timeDay": 525,
-    "timeWeek": 440,
+    "timeDay": 511,
+    "timeWeek": 435,
     "timeMonth": 530,
     "timeYear": 539,
     "dailyMinutesDown": {
@@ -74,17 +74,16 @@
     "slug": "prepis",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 680,
-    "timeDay": 506,
-    "timeWeek": 497,
-    "timeMonth": 613,
+    "timeDay": 533,
+    "timeWeek": 518,
+    "timeMonth": 615,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2026-02-02": 12,
       "2025-11-18": 131
     }
   },
@@ -99,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 231,
-    "timeWeek": 196,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 210,
+    "timeDay": 242,
+    "timeWeek": 192,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   }
 ]
