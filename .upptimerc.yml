@@ -7,7 +7,7 @@ sites:
     slug: humanistika
     url: https://humanistika.org
     icon: https://raw.githubusercontent.com/BCDH/upptime/master/assets/bcdh-dot.png
-  - name: תּכלית 
+  - name: תּכלית
     slug: tacheles
     url: http://tacheles.humanistika.org
   - name: Расковник
@@ -15,10 +15,10 @@ sites:
     url: https://raskovnik.org
   - name: Препис
     slug: prepis
-    url: http://prepis.org 
+    url: http://prepis.org
   - name: Lex-0
     slug: lex0
-    url: https://lex0.org
+    url: https://lex-0.org
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
