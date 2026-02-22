@@ -92,9 +92,9 @@
     "url": "https://lex-0.org",
     "icon": "https://icons.duckduckgo.com/ip3/lex-0.org.ico",
     "slug": "lex-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,6 +103,8 @@
     "timeWeek": 197,
     "timeMonth": 184,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-22": 0
+    }
   }
 ]
